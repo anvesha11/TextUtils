@@ -1,4 +1,4 @@
-# TextUtils
+# Text Utilities Web
 A tool for analyzing entered text data as per user requirement in Django backend
 
 # Things which can be done using TextUtils:
